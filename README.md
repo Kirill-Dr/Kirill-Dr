@@ -24,31 +24,18 @@
 <br />
 <div align="left">
   <img src="https://www.svgrepo.com/show/373669/html.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/373535/css.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/452045/js.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/452092/react.svg" height="60" />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" height="60" />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/374167/vite.svg" height="60" />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/374067/scss2.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/353709/eslint.svg" height="60" />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height="60" />
 </div>
 
