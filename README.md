@@ -37,6 +37,7 @@
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="60" />
   <img src="https://www.svgrepo.com/show/353709/eslint.svg" height="60" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="60" />
 </div>
 
 ---
