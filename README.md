@@ -38,14 +38,9 @@
   <img src="https://www.svgrepo.com/show/353709/eslint.svg" height="60" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height="60" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/331370/docker.svg" height="60" />
+  <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" height="60" />
 </div>
-
----
-
-<h3 align="left">🔥 My statistics:</h3>
-<br />
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kirill-Dr&theme=dark&border_radius=30&card_width=520&card_height=200&background=50%2C1E00A6%2CC22A2A&fire=EB0000&ring=EB0000&dates=EBEBEB&currStreakLabel=EB0000" height="220" alt="streak graph"  />
-</div>
-
----
