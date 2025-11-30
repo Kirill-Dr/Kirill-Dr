@@ -43,6 +43,6 @@
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="60" />
   <img src="https://www.svgrepo.com/show/331370/docker.svg" height="60" />
   <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" height="60" />
-  <img src="https://svgmix.com/uploads/skillicons/151df7-fastapi.svg" height="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="60" />
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="60" />
 </div>
